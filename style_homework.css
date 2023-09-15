@@ -1,0 +1,23 @@
+.big_box1{
+    background-color: red;
+    width: 600px;
+    height: 200px;
+}
+
+.small_box1{
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.big_box2{
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+}
+
+.small_box2{
+    background-color: lightgray;
+    width: 100px;
+    height: 250px;
+}
